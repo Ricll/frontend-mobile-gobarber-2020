@@ -106,7 +106,7 @@ $ gh repo fork Ricll/frontend-mobile-gobarber-2020
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd gobarber-mobile
+$ git clone your-fork-url &&frontend-mobile-gobarber-2020
 
 # Create a branch with your feature
 $ git checkout -b my-feature
