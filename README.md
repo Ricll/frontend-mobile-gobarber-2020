@@ -99,7 +99,7 @@ $ yarn ios
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork EliasGcf/gobarber-mobile
+$ gh repo fork Ricll/frontend-mobile-gobarber-2020
 ```
 
 **Follow the steps below**
